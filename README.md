@@ -1,43 +1,43 @@
 Vim Color Schemes Collection
 ============================
 
+
+This Vim color schemes collection is provided by [Chris Kempson](https://github.com/chriskempson) and built with [Base16 builder](https://github.com/chriskempson/base16-builder).
+
+
 # Installation:
 
     NeoBundle 'jimzhan/vim-colors'
 
 
-## Molokai
+# Available Themes
+    * base16-3024.vim
+    * base16-ashes.vim
+    * base16-atelierdune.vim
+    * base16-atelierforest.vim
+    * base16-atelierheath.vim
+    * base16-atelierlakeside.vim
+    * base16-atelierseaside.vim
+    * base16-bespin.vim
+    * base16-brewer.vim
+    * base16-chalk.vim
+    * base16-codeschool.vim
+    * base16-default.vim
+    * base16-eighties.vim
+    * base16-embers.vim
+    * base16-google.vim
+    * base16-grayscale.vim
+    * base16-greenscreen.vim
+    * base16-isotope.vim
+    * base16-londontube.vim
+    * base16-marrakesh.vim
+    * base16-mocha.vim
+    * base16-monokai.vim
+    * base16-ocean.vim
+    * base16-paraiso.vim
+    * base16-railscasts.vim
+    * base16-shapeshifter.vim
+    * base16-solarized.vim
+    * base16-tomorrow.vim
+    * base16-twilight.vim
 
-[tomasr/molokia](https://github.com/tomasr/molokai)
-
-By default, it has a dark gray background based on the version created by Hamish Stuart Macpherson for the E editor.
-
-![Molokia Gray](http://www.winterdom.com/weblog/content/binary/WindowsLiveWriter/MolokaiforVim_8602/molokai_normal_small_3.png)
-
-![Molokai Original](http://www.winterdom.com/weblog/content/binary/WindowsLiveWriter/MolokaiforVim_8602/molokai_original_small_3.png)
-
-256-Color terminals are also supported, though there are some differences with the Gui version. Only the dark gray background style is supported on terminal vim at this time.
-
-
-### Options
-
-If you prefer the scheme to match the original monokai background color, put this in your .vimrc file: 
-
-    let g:molokai_original = 1
-
-
-There is also an alternative scheme under development for color terminals which attempts to bring the 256 color version as close as possible to the the default (dark) GUI version. To access, add this to your .vimrc:
-
-    let g:rehash256 = 1
-
-
-## Jellybean
-
-[nanotech/jellybeans.vim](https://github.com/nanotech/jellybeans.vim)
-
-![Jellybean](https://camo.githubusercontent.com/0326eed0732a1782a2d512f961d4edd96328c9ca/687474703a2f2f6e616e6f746563682e6e616e6f74656368636f72702e6e65742f646f776e6c6f6164732f6a656c6c796265616e732d707265766965772e706e67)
-
-
-## Vividchalk
-
-![Vividchalk](http://www.vimninjas.com/images/posts/10vim/vividchalk.png)
